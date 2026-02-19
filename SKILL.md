@@ -3,7 +3,7 @@ name: witness-consciousness-inquiry
 description: A methodology for guiding someone from identification with thoughts, emotions, and experiences to recognition of the witnessing awareness.
 license: MIT
 metadata:
-  version: 1.0.5324
+  version: 1.0.5325
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
